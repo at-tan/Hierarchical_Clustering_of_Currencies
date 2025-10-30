@@ -1,3 +1,3 @@
 An agglomerative hierarchical clustering exercise on 31 global currencies, including gold and silver, on three common financial market features using data from 2017 through 2019. The final results of four clusters show that geography is of little use in segmenting global currencies in terms of their behavior, except perhaps for non-JPY Asian currencies. The beta to broad US dollar direction offered the best differencing factor across the four clusters, followed by implied volatility, and lastly by equity market correlation. However, one FX cluster ("safe haven cluster") was distinguished by having the only positive equity correlation values.
 
-This is the Python code used for the article published in: https://towardsdatascience.com/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3
+This is the Python code used for the article published in: https://medium.com/data-science/a-hierarchical-clustering-of-currencies-80b8ba6c9ff3
